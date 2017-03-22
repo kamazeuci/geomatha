@@ -24,7 +24,6 @@ github_username:  kamazeuci
 
 # Build settings
 markdown: kramdown
-theme: minima
 highlighter: rouge
 encoding: utf-8
 gems:
